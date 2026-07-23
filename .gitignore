@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+outputs/modele_finetune/
+outputs/figures/*.png
+.cache/
+.ipynb_checkpoints/
+*.egg-info/
